@@ -6,7 +6,7 @@
 
 A pure front-end, zero-dependency browser-based cognitive training PWA. Supports classic pairs, N-back, daily challenges, and memory quizzes — ready to play out of the box, works offline, and all data is stored locally.
 
-[Live Demo](https://build-workbench.github.io/mind-gym/) · [GitHub Repository](https://github.com/build-workbench/mind-gym) · [Report an Issue](https://github.com/build-workbench/mind-gym/issues)
+[Live Demo](https://holtwood-projects.github.io/mind-gym/) · [GitHub Repository](https://github.com/holtwood-projects/mind-gym) · [Report an Issue](https://github.com/holtwood-projects/mind-gym/issues)
 
 ---
 
@@ -60,7 +60,7 @@ This project is a standard offline-first PWA — no download or installation req
 Implemented in plain native JavaScript with no runtime dependencies and no bundler:
 
 ```bash
-git clone https://github.com/build-workbench/mind-gym.git
+git clone https://github.com/holtwood-projects/mind-gym.git
 cd mind-gym
 
 # 方式 1：npm 启动
@@ -87,7 +87,7 @@ Open-sourced under the [MIT License](LICENSE).
 
 纯前端、零依赖的浏览器端认知训练 PWA。支持经典配对、N-back、每日挑战与记忆测验，开箱即玩、离线可用、数据全本地存储。
 
-[在线试玩 Live Demo](https://build-workbench.github.io/mind-gym/) · [GitHub 仓库](https://github.com/build-workbench/mind-gym) · [报告问题](https://github.com/build-workbench/mind-gym/issues)
+[在线试玩 Live Demo](https://holtwood-projects.github.io/mind-gym/) · [GitHub 仓库](https://github.com/holtwood-projects/mind-gym) · [报告问题](https://github.com/holtwood-projects/mind-gym/issues)
 
 ---
 
@@ -141,7 +141,7 @@ Open-sourced under the [MIT License](LICENSE).
 纯原生 JavaScript 实现，零运行时依赖、无打包工具：
 
 ```bash
-git clone https://github.com/build-workbench/mind-gym.git
+git clone https://github.com/holtwood-projects/mind-gym.git
 cd mind-gym
 
 # 方式 1：npm 启动
