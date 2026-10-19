@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://build-workbench.github.io/mind-gym/sitemap.xml
+Sitemap: https://holtwood-projects.github.io/mind-gym/sitemap.xml

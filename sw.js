@@ -137,7 +137,7 @@ self.addEventListener('fetch', event => {
 
   // Only handle same-origin requests for main content
   // For GitHub Pages, also handle requests from the repo path
-  const isGitHubPages = url.hostname === 'build-workbench.github.io';
+  const isGitHubPages = url.hostname === 'holtwood-projects.github.io';
   const isSameOrigin = url.origin === self.location.origin;
 
   if (!isSameOrigin && !isGitHubPages) return;
